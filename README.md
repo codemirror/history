@@ -1,8 +1,8 @@
-# @codemirror/history
+# @codemirror/history [![NPM version](https://img.shields.io/npm/v/@codemirror/history.svg)](https://www.npmjs.org/package/@codemirror/history)
 
-[ [![NPM version](https://img.shields.io/npm/v/@codemirror/next.svg)](https://www.npmjs.org/package/@codemirror/history) | [**WEBSITE**](https://codemirror.net/6/) | [**DOCS**](https://codemirror.net/6/docs/ref/#history) | [**ISSUES**](https://github.com/codemirror/codemirror.next/issues) | [**FORUM**](https://discuss.codemirror.net/c/next/) | [**CHANGELOG**](https://github.com/codemirror/history/blob/main/CHANGELOG.md) ]
+[ [**WEBSITE**](https://codemirror.net/6/) | [**DOCS**](https://codemirror.net/6/docs/ref/#history) | [**ISSUES**](https://github.com/codemirror/codemirror.next/issues) | [**FORUM**](https://discuss.codemirror.net/c/next/) | [**CHANGELOG**](https://github.com/codemirror/history/blob/main/CHANGELOG.md) ]
 
-This package implements Undo/redo history for the
+This package implements the undo/redo history for the
 [CodeMirror](https://codemirror.net/6/) code editor.
 
 The [project page](https://codemirror.net/6/) has more information, a

@@ -1,3 +1,9 @@
+## 0.18.1 (2021-03-23)
+
+### New features
+
+The state field used by the history is now public, and has `toJSON` and `fromJSON` functions for serialization.
+
 ## 0.18.0 (2021-03-03)
 
 ### Breaking changes

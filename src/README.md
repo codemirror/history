@@ -2,6 +2,8 @@
 
 @historyKeymap
 
+@historyField
+
 @undo
 
 @redo

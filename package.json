@@ -1,6 +1,6 @@
 {
   "name": "@codemirror/history",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "description": "Undo/redo history for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",

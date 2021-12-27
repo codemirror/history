@@ -1,3 +1,11 @@
+## 0.19.1 (2021-12-28)
+
+### Bug fixes
+
+Scroll the selection into view after undoing or redoing. Only combine typing and deletion events into a single history event
+
+Avoid combining most types of transactions into a single history event, except for typing and deleting.
+
 ## 0.19.0 (2021-08-11)
 
 ### Bug fixes

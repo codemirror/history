@@ -1,3 +1,9 @@
+## 0.19.2 (2022-01-03)
+
+### Bug fixes
+
+Redoing a change now puts the cursor right after the change, regardless of where the selection was when the change was undone.
+
 ## 0.19.1 (2021-12-28)
 
 ### Bug fixes
